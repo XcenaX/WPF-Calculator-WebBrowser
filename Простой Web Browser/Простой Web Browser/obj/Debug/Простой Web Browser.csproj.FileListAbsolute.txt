@@ -1,0 +1,15 @@
+C:\Users\Lebedev'ml\source\repos\Простой Web Browser\Простой Web Browser\bin\Debug\Простой Web Browser.exe.config
+C:\Users\Lebedev'ml\source\repos\Простой Web Browser\Простой Web Browser\bin\Debug\Простой Web Browser.exe
+C:\Users\Lebedev'ml\source\repos\Простой Web Browser\Простой Web Browser\bin\Debug\Простой Web Browser.pdb
+C:\Users\Lebedev'ml\source\repos\Простой Web Browser\Простой Web Browser\obj\Debug\Простой Web Browser.csprojAssemblyReference.cache
+C:\Users\Lebedev'ml\source\repos\Простой Web Browser\Простой Web Browser\obj\Debug\MainWindow.g.cs
+C:\Users\Lebedev'ml\source\repos\Простой Web Browser\Простой Web Browser\obj\Debug\App.g.cs
+C:\Users\Lebedev'ml\source\repos\Простой Web Browser\Простой Web Browser\obj\Debug\Простой Web Browser_MarkupCompile.cache
+C:\Users\Lebedev'ml\source\repos\Простой Web Browser\Простой Web Browser\obj\Debug\Простой Web Browser_MarkupCompile.lref
+C:\Users\Lebedev'ml\source\repos\Простой Web Browser\Простой Web Browser\obj\Debug\MainWindow.baml
+C:\Users\Lebedev'ml\source\repos\Простой Web Browser\Простой Web Browser\obj\Debug\Простой Web Browser.g.resources
+C:\Users\Lebedev'ml\source\repos\Простой Web Browser\Простой Web Browser\obj\Debug\Простой_Web_Browser.Properties.Resources.resources
+C:\Users\Lebedev'ml\source\repos\Простой Web Browser\Простой Web Browser\obj\Debug\Простой Web Browser.csproj.GenerateResource.cache
+C:\Users\Lebedev'ml\source\repos\Простой Web Browser\Простой Web Browser\obj\Debug\Простой Web Browser.csproj.CoreCompileInputs.cache
+C:\Users\Lebedev'ml\source\repos\Простой Web Browser\Простой Web Browser\obj\Debug\Простой Web Browser.exe
+C:\Users\Lebedev'ml\source\repos\Простой Web Browser\Простой Web Browser\obj\Debug\Простой Web Browser.pdb
